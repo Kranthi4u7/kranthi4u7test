@@ -18,3 +18,4 @@ How will I be notified when the status of my Idea changes?
 The Ideas system will send an email to the address you used to register when a new comment or vote is added to your Idea and when the Idea changes status. The status changes that trigger an email notification are:
 Planned - when an Idea has been committed to the product road map
 Completed - when an Idea has been delivered in a product release 
+

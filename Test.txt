@@ -1,0 +1,20 @@
+Confidential
+
+Frequently Asked Questions:
+
+How do I create a new Idea?
+To create a new Idea, first search for any existing ideas that match your requirements. Type any key words and search terms in the Tell Us Your Idea box and click Search. The results will list all Ideas that match the terms in your entry. Click an individual Idea to view its details. If an existing idea matches yours, submit your vote for that idea. If none of the ideas in the results match what you want to create, click Create Your Idea and fill out the What is your idea? form. Ensure that you select a product in the Category drop-down.
+
+
+How do I find the status of an open Idea?
+A series of tabs display across the top of the Ideas pages. Click a tab to browse the list of ideas sorted by the following criteria:
+Latest shows the list of the most recent ideas.
+Hot ranks ideas based on the amount of recent activity surrounding an idea, including both votes and comments.
+Top ranks ideas by number of votes.
+My votes lists the ideas that that you have voted on. By default, system adds your vote to any Ideas you submit.
+Planned shows the submitted ideas that have been added to the development planning process.
+Completed shows the ideas that have been completed.
+How will I be notified when the status of my Idea changes?
+The Ideas system will send an email to the address you used to register when a new comment or vote is added to your Idea and when the Idea changes status. The status changes that trigger an email notification are:
+Planned - when an Idea has been committed to the product road map
+Completed - when an Idea has been delivered in a product release 

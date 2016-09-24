@@ -1,0 +1,9 @@
+conf
+
+dial first number
+
+single flash
+
+then dial second number
+
+then single flash double 33
